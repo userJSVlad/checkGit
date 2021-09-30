@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function Vrapper() {
-   console.log('hello')
+   console.log('sd')
    return (
       <div>
 
