@@ -1,10 +1,9 @@
 import React from 'react'
 
-export default function Vrapper() {
-   console.log('sd')
+export default function Giter() {
    return (
       <div>
-
+         
       </div>
    )
 }
